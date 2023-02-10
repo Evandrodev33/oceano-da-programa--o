@@ -46,12 +46,11 @@ h2 {
 }
 
 
-.discrição {
+.descriçao {
 
     color: #ffffff;
-
     margin-top: 10px;
-
+    text-transform: capitalize;
 
 }
 
@@ -62,7 +61,7 @@ h2 {
 
     color: #ffffff;
     margin-top: 10px;
-
+    text-transform: capitalize;
 
 
 }
