@@ -1,6 +1,6 @@
- const firstName = 'Evandro'
- const seccondName = 'Joao '
+const firstName = 'Evandro'
+const seccondName = 'Maria'
 
- const names = `Olá, meu nome é ${firstName} e o do meu partner do devclub  é o ${seccondName}`
+const names = ("Olá meu nome é " + `${firstName}` + "e o do meu partner do dev club é o "  + `${seccondName}`)     
 
- console.log (names)
+console.log(names)
